@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ankit Raj, a B.Tech CSE (AI & ML) student currently in my 3rd year.<br>Passionate about Artificial Intelligence, Machine Learning, and Data Science.<br>I am currently in  6 sem in 3rd year.<br><br>
+👋 I am a third-year B.Tech Computer Science (AI & ML) student with a solid academic background and hands-on experience in building intelligent, data-driven applications. I have a strong foundation in machine learning, data analysis, and backend development, with practical exposure to deploying AI-powered systems using Python, Flask, and modern ML frameworks.<br><br>
 
 
 ## 🌐 Socials:

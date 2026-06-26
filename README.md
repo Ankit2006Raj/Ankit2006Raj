@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 I am a third-year B.Tech Computer Science (AI & ML) student with a solid academic background and hands-on experience in building intelligent, data-driven applications. I have a strong foundation in machine learning, data analysis, and backend development, with practical exposure to deploying AI-powered systems using Python, Flask, and modern ML frameworks.<br><br>
+👋 I am a **B.Tech Computer Science (AI & ML)** student with a passion for building intelligent, scalable, and impactful software solutions that solve real-world problems. My expertise spans **Artificial Intelligence, Machine Learning, Full-Stack Development, Backend Engineering, and Data Analytics**, allowing me to design and develop end-to-end applications from concept to deployment. I have hands-on experience creating AI-powered systems using **Python, Java, Flask, SQL, REST APIs, and modern web technologies**, with a strong emphasis on clean architecture, performance optimization, and exceptional user experience. I thrive on solving complex engineering challenges, learning emerging technologies, and transforming innovative ideas into production-ready products. With a proven ability to quickly adapt, collaborate effectively, and continuously improve, I am committed to delivering high-quality software that creates meaningful value for users and businesses while growing as a software engineer.
+<br><br>
 
 
 ## 🌐 Socials:

@@ -158,19 +158,26 @@ AI and Machine Learning developer with hands-on experience building **production
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/B.Tech-CS_(AI_&_ML)-58A6FF?style=for-the-badge&labelColor=0D1117" /><br/><br/>
 <b>Maharishi Markandeshwar University</b><br/>
 Mullana, Haryana<br/><br/>
 <img src="https://img.shields.io/badge/CGPA-8.67-3FB950?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Aug_2024-Present-58A6FF?style=flat-square&labelColor=0D1117" />
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/Diploma-Computer_Science-7C3AED?style=for-the-badge&labelColor=0D1117" /><br/><br/>
 <b>Government Polytechnic</b><br/>
 Patna, Bihar<br/><br/>
 <img src="https://img.shields.io/badge/CGPA-8.75-3FB950?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Nov_2021-May_2024-7C3AED?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/10th-CBSE-F0883E?style=for-the-badge&labelColor=0D1117" /><br/><br/>
+<b>Sanskar Vidya</b><br/>
+Daudnagar, Aurangabad<br/><br/>
+<img src="https://img.shields.io/badge/Score-71%25-3FB950?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Graduated-2021-F0883E?style=flat-square&labelColor=0D1117" />
 </td>
 </tr>
 </table>

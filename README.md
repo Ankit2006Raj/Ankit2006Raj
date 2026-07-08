@@ -16,8 +16,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-raj-226a36309)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ankitrazz.in)
+[![LinkedIn](https://img.shields.io/badge/-Ankit%20Raj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-raj-226a36309)
+[![Portfolio](https://img.shields.io/badge/-ankitrazz.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://ankitrazz.in)
 [![Gmail](https://img.shields.io/badge/-ankit9905163014-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankit9905163014@gmail.com)
 [![Discord](https://img.shields.io/badge/-ankit2006razz-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ankit2006razz)
 [![Instagram](https://img.shields.io/badge/-ankit__razz__99-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ankit_razz_99)

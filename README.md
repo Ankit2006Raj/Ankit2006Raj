@@ -177,7 +177,7 @@ Patna, Bihar<br/><br/>
 <b>Sanskar Vidya</b><br/>
 Daudnagar, Aurangabad<br/><br/>
 <img src="https://img.shields.io/badge/Score-71%25-3FB950?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Graduated-2021-F0883E?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Completed-2021-F0883E?style=flat-square&labelColor=0D1117" />
 </td>
 </tr>
 </table>

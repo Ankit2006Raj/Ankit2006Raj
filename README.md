@@ -178,20 +178,7 @@ Patna, Bihar<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ── GitHub Analytics ─────────────────────────────────────────────────── -->
 
-### 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit2006Raj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ankit2006Raj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681" />
-</p>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit2006Raj&bg_color=0D1117&color=58A6FF&line=3FB950&point=58A6FF&area_color=3FB950&area=true&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ── Currently Learning ──────────────────────────────────────────────── -->
 

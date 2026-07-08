@@ -3,9 +3,7 @@
 
 <div align="center">
 
-<h1 align="center">
-  Hi there, I'm Ankit Raj <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35" />
-</h1>
+<h1 align="center">Ankit Raj</h1>
 <h3 align="center">
   <b>AI & ML Developer</b> &nbsp;&bull;&nbsp; <b>Full-Stack Engineer</b>
 </h3>

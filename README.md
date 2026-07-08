@@ -1,39 +1,30 @@
 <!-- ── Ankit Raj · GitHub Profile README ─────────────────────────────────── -->
 <!-- Color Palette: #0D1117 (bg) · #58A6FF (blue) · #7C3AED (purple) · #3FB950 (green) -->
 
-<!-- ── Premium Hero Section ─────────────────────────────────────────────── -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=16&descAlignY=52&descColor=C9D1D9" width="100%" />
+<a href="https://ankitrazz.in">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=AI+%26+ML+Developer+%E2%80%A2+Full-Stack+Engineer;Building+Intelligent+Production+Systems" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://ankitrazz.in">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%9A%A1+Crafting+AI-Powered+Production+Systems;%F0%9F%94%AC+RAG+Pipelines+%7C+Gemini+API+%7C+Deep+Learning;%F0%9F%9A%80+30%2B+Projects+%7C+5+Live+Platforms+%7C+3+Internships" alt="Typing SVG" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-Ankit_Raj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-raj-226a36309)
+[![Portfolio](https://img.shields.io/badge/-ankitrazz.in-000?style=flat-square&logo=vercel&logoColor=white)](https://ankitrazz.in)
+[![Gmail](https://img.shields.io/badge/-ankit9905163014-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankit9905163014@gmail.com)
+[![Discord](https://img.shields.io/badge/-ankit2006razz-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ankit2006razz)
+[![Instagram](https://img.shields.io/badge/-ankit__razz__99-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ankit_razz_99)
+[![Views](https://visitcount.itsvg.in/api?id=Ankit2006Raj&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<br/><br/>
-
-<a href="https://linkedin.com/in/ankit-raj-226a36309"><img src="https://img.shields.io/badge/LinkedIn-Ankit_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ankitrazz.in"><img src="https://img.shields.io/badge/Portfolio-ankitrazz.in-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:ankit9905163014@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://discord.gg/ankit2006razz"><img src="https://img.shields.io/badge/Discord-ankit2006razz-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://instagram.com/ankit_razz_99"><img src="https://img.shields.io/badge/Instagram-ankit__razz__99-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br/><br/>
+<br/>
 
 <!-- ── Quick Stats Bar ──────────────────────────────────────────────────── -->
 
-<img src="https://img.shields.io/badge/🎓_CGPA-8.67-58A6FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🚀_Projects-30+-3FB950?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/💼_Internships-3-7C3AED?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🔗_Live_Deployments-5+-F0883E?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🧠_AI_Platforms-5-EE4C2C?style=flat-square&labelColor=0D1117" />
-
-<br/>
-
-[![Views](https://visitcount.itsvg.in/api?id=Ankit2006Raj&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/CGPA-8.67-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Projects-30+-3FB950?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Internships-3-7C3AED?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Live_Deployments-5+-F0883E?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI_Platforms-5-EE4C2C?style=flat-square&labelColor=0D1117" />
 
 </div>
 

@@ -3,8 +3,11 @@
 
 <div align="center">
 
+<h1 align="center">Hi there, I'm Ankit Raj 👋</h1>
+<h3 align="center">AI & ML Developer • Full-Stack Engineer</h3>
+
 <a href="https://ankitrazz.in">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=45&lines=AI+%26+ML+Developer+%E2%80%A2+Full-Stack+Engineer;Building+Intelligent+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Building+Intelligent+Production+Systems;Architecting+Scalable+AI+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>

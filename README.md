@@ -3,7 +3,9 @@
 
 <div align="center">
 
-<h1 align="center">Ankit Raj</h1>
+<h1 align="center">
+  👋 <i>Hey, I'm <b>Ankit Raj</b></i>
+</h1>
 <h3 align="center">
   <b>AI & ML Developer</b> &nbsp;&bull;&nbsp; <b>Full-Stack Engineer</b>
 </h3>
